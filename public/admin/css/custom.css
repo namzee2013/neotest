@@ -1,0 +1,26 @@
+.error{
+  color: red;
+}
+input.mark{
+  width: 30%;
+  display: inline;
+}
+.button-primary{
+  color: #fff;
+  background-color: #1caf9a;
+}
+.button-primary:hover, .button-primary:focus, .button-primary:active, .button-primary.active, .open > .dropdown-toggle.button-primary
+.row-color{
+  background-color: #F8FAFC;
+}
+.select_category{
+  padding: 6px 12px;
+  color: #555;
+  height: 30px;
+  font-size: 12px;
+  line-height: 18px;
+  box-shadow: none;
+  -webkit-appearance: none;
+  border: 1px solid #D5D5D5;
+  background: #F9F9F9;
+}
